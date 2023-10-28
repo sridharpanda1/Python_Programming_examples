@@ -2,6 +2,9 @@ prog1.py : Basic If condition prog
 prog2.py : Basic If-else condition prog
 prog3.py : Basic If-elif-else condition prog
 prog4.py : Write a program to find th biggest of given 2 numbers from the Command prompt
-prog5.py : Write a program to find biggest of giveb 3 numbers from the Command Propmt
-prog6.py : Write a program to check wheather the given Number is in between 1 and 100
-prog7.py : Write a program to take a single digit nuber from the key board and print is value in English word
+prog5.py : Write a program to find biggest of give 3 numbers from the Command Prompt
+prog6.py : Write a program to check whether the given Number is in between 1 and 100
+prog7.py : Write a program to find smallest of given 2 numbers
+prog8.py : Write a program to find smallest of given 3 number
+prog9.py : Write a program to check whether the given number is even or odd
+prog10.py : Write a program to take a single digit nuber from the key board and print is value in English word
